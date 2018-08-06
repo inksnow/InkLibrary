@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/flag_on"
+        android:maxLevel="0" />
+    <item
+        android:drawable="@drawable/flag_off"
+        android:maxLevel="1" />
+
+</level-list><!--<?xml version="1.0" encoding="utf-8"?>--><!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"--><!--android:layout_width="match_parent"--><!--android:layout_height="match_parent"--><!--android:orientation="vertical"--><!--&gt;--><!--<View--><!--android:layout_width="wrap_content"--><!--android:layout_height="wrap_content">-->
+
+    <!--</View>--><!--<SeekBar--><!--android:layout_width="match_parent"--><!--android:layout_height="wrap_content"--><!--android:layout_centerInParent="true"--><!--android:layout_gravity="center_vertical"--><!--android:layout_marginLeft="@dimen/dp15"--><!--android:layout_marginRight="@dimen/dp15"--><!--android:max="60"--><!--android:maxHeight="@dimen/dp15"--><!--android:minHeight="@dimen/dp15"--><!--android:progress="30"--><!--android:progressDrawable="@drawable/barss"--><!--android:splitTrack="false"--><!--android:thumb="@drawable/thumb"--><!--android:thumbOffset="@dimen/dp4" />--><!--</LinearLayout>-->
